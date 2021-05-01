@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/hitim/OneDrive/Projekte/_Programmieren/_templates/vs_code_cpp_python/out/build",
+            "binaryPath": "/mnt/c/Users/hitim/OneDrive/Projekte/_Programmieren/_templates/vs_code_cpp_python/out/build/program",
+            "binaryArgs": []
+        }
+    ]
+}
